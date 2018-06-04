@@ -1,0 +1,6 @@
+{
+    "listening_port": 8997,
+    "mongo_conn_str": "mongodb://localhost:27017",
+    "cors": "*",
+    "log_dir": "AuraDataLogs"
+}
